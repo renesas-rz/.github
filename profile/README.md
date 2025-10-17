@@ -1,6 +1,6 @@
 <img src="https://github.com/renesas-rz/.github/blob/main/banner.png">
 
-## Renesas Repositories for RZ Microproessors 
+## Renesas Repositories for RZ Microprocessors 
 
 ### Linux BSP Related Repositories
 <details>
