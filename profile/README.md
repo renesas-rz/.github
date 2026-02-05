@@ -44,6 +44,12 @@
  <td> <a href=https://github.com/renesas-rz/rzg2_flash_writer/wiki> Description of branches </a> </td>
 </tr>
 
+ <tr>
+ <td> DDR Tool </td>
+ <td> https://github.com/renesas-rz/rz_tool_flash_writer </td>
+ <td> A verion of Flash Writer just for DDR testing. Each branch is for a different MPU </td>
+</tr>
+
 </table>
 </details>
 
