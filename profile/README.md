@@ -1,4 +1,5 @@
 <img src="https://github.com/renesas-rz/.github/blob/main/banner.png">
+<img src="https://www.renesas.com/sites/default/files/styles/banner_2016x349/public/2020-03/rz-32-bit-high-end-mpus-hero.jpg">
 
 ## Renesas Repositories for RZ Microprocessors 
 
