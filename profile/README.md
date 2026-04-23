@@ -13,6 +13,10 @@
 
 ### 🧠 Vision Artificial Intelligence
 * Download and Build Instructions 👉 [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/latest/)
+* Partner Applications 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/community.html)
+* Demo Binaries and Videos 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/#demo)
+* Example Models, Applications and performance 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/applications.html)
+* How to retrain a model 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/howto_retrain.html)
 
 ### 🎨 HMI SDK
 * Pre-build binary enviroment including sample code examples 👉 [link](https://renesas-rz.github.io/rzg_hmi_sdk/latest/)
