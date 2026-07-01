@@ -12,7 +12,8 @@
 <img width=100 align=right src="https://renesas-rz.github.io/rzv_ai_sdk/7.10/img/ai_sdk.svg">
 
 ### 🧠 Vision Artificial Intelligence
-* Download and Build Instructions 👉 [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/latest/)
+* BSP Download and Build Instructions 👉 [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/latest/)
+* AI Model Optimization Software RUHMI (Robust Unified Heterogeneous Model Integration) 👉 [link](https://github.com/renesas-rz/rzv_drp-ai_tvm)
 * Partner Applications 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/community.html)
 * Demo Binaries and Videos 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/#demo)
 * Example Models, Applications and performance 👉 [link](https://renesas-rz.github.io/rzv_ai_sdk/latest/applications.html)
