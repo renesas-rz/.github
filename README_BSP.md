@@ -51,7 +51,7 @@ These repositories are pulled from during the Yocto build of the BSP
  <td>  </td>
 </tr>
 <tr>
- <td> vspmif_drv - VSP Manager </td>
+ <td> vspm_drv - VSP Manager </td>
  <td> https://github.com/renesas-rz/vspm_drv </td>
  <td>  </td>
 </tr>
