@@ -65,6 +65,16 @@ These repositories are pulled from during the Yocto build of the BSP
  <td> https://github.com/renesas-rz/vspmif_lib </td>
  <td>  </td>
 </tr>
+<tr>
+ <td> rzg_gstreamer_vspmfilter - GStreamer plugin for VSPM hardware acceleration </td>
+ <td> https://github.com/renesas-rz/rzg_gstreamer_vspmfilter </td>
+ <td>  </td>
+</tr>
+<tr>
+ <td> gst-omx - GStreamer OpenMAX IL wrapper plugin </td>
+ <td> https://github.com/renesas-rz/gst-omx </td>
+ <td>  </td>
+</tr>
 </table>
 
 
