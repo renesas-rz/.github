@@ -23,6 +23,11 @@
 
 <HR>
 
+### 🤖 Android Open Source Project (AOSP): 
+* Renesas RZ AOSP 👉 [link](https://renesas-rz.github.io/rz_aosp/latest)
+
+<HR>
+
 ### 💡Online Renesas Resources
 * Renesas Official RZ MPU Device Website 👉 [link](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
 * Renesas RZ Linux Solutions Download Page 👉 [link](https://renesas-rz.github.io/rz_solution/)
