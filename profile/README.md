@@ -23,7 +23,7 @@
 
 <HR>
 
-### 🤖 Android Open Source Project (AOSP): 
+### 🤖 Android Open Source Project (AOSP)
 * Renesas RZ AOSP 👉 [link](https://renesas-rz.github.io/rz_aosp/latest)
 
 <HR>
