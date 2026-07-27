@@ -29,7 +29,6 @@
 <HR>
 
 ### 💡Online Renesas Resources
-* Renesas RZ Linux Solutions 👉 [link](https://renesas-rz.github.io/rz_solution/)
+* Renesas RZ Linux Solutions Information 👉 [link](https://renesas-rz.github.io/rz_solution/)
 * Renesas Official RZ MPU Device Website 👉 [link](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
-* Renesas RZ Linux Solutions Download Page 👉 [link](https://renesas-rz.github.io/rz_solution/)
 * Wiki site containing detailed technical information 👉 [link](https://renesas-wiki.atlassian.net/wiki/spaces/REN/overview)
